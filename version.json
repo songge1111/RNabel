@@ -1,0 +1,11 @@
+{
+  "latest_version": "1.1.9",
+  "download_url": "https://github.com/yourusername/rnabel/releases/latest",
+  "disabled_versions": [
+    "1.1.0",
+    "1.1.1"
+  ],
+  "disable_reason": "These versions have known security issues. Please update to the latest version.",
+  "release_notes": "Version 1.1.9 Update Notes:\n- Fixed several known issues\n- Performance improvements\n- New features added"
+}
+
