@@ -1,11 +1,12 @@
 {
-  "latest_version": "1.1.9",
+  "latest_version": "1.1.10",
   "download_url": "https://github.com/songge1111/RNabel/releases/latest",
   "disabled_versions": [
     "1.1.0",
-    "1.1.1"
+    "1.1.1",
+    "1.1.9"
   ],
   "disable_reason": "These versions have known security issues. Please update to the latest version.",
-  "release_notes": "Version 1.1.9 Update Notes:\n- Fixed several known issues\n- Performance improvements\n- New features added"
+  "release_notes": "Version 1.1.10 Update Notes:\n- Fixed several known issues\n- Performance improvements\n- New features added"
 }
 
